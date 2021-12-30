@@ -4,27 +4,22 @@ Hi 👋 <br>
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).  <br>
 If you like my solution, give me a 🌟
 
+![Sample](./assets/video/sample-video.gif)
+
 ## Table of contents
 
-- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
+  - [Author](#author)
 
-## Overview
 
-### The challenge
+## The challenge
 
 - Build out the project to the designs provided
 
-### Screenshot
-
-- Sample
-
-![Sample](./assets/video/sample-video.gif)
+## Screenshot
 
 - Mobile
 
@@ -34,13 +29,11 @@ If you like my solution, give me a 🌟
 
 ![Desktop](./assets/image/sample-desktop.png)
 
-### Links
+## Links
 
 - [Live site URL here](https://irs-mp.github.io/profile-card/) 👀
 
-## My process
-
-### Built with
+## Built with
 
 - Mobile-first workflow
 - Semantic HTML5 markup
