@@ -2,7 +2,8 @@
 
 Hi 👋 <br>
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).  <br>
-If you like my solution, give me a 🌟
+If you like my solution, give me a 🌟 <br>
+Thank you 😉
 
 ![Sample](./assets/video/sample-video.gif)
 
@@ -31,7 +32,7 @@ If you like my solution, give me a 🌟
 
 ## Links
 
-- [Live site URL here](https://irs-mp.github.io/profile-card/) 👀
+- [Live](https://irs-mp.github.io/profile-card/) 👀
 
 ## Built with
 
